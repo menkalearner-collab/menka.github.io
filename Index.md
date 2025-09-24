@@ -1,11 +1,4 @@
-<!-- Navigation Bar -->
-<nav style="background-color: #333; padding: 10px 20px;">
-  <a href="index.html" style="color: white; margin-right: 15px; text-decoration: none;">Home</a>
-  <a href="about.html" style="color: white; margin-right: 15px; text-decoration: none;">About</a>
-  <a href="publications.html" style="color: white; margin-right: 15px; text-decoration: none;">Publications</a>
-  <a href="contact.html" style="color: white; text-decoration: none;">Contact</a>
-</nav>
-
+---
 layout: default
 title: "Home | Dr. Menka"
 ---
