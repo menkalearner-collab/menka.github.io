@@ -92,3 +92,6 @@ I am experienced in environmental issues related to the degradation of air and w
 ## 📬 Contact
 📧 [mnkbhu@gmail.com](mailto:mnkbhu@gmail.com)  
 📞 +91-9450666713  
+---
+## 🔗 More
+👉 [See my full list of publications here](publications.md)
