@@ -18,3 +18,4 @@ phone: "+91-9450666713"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
