@@ -1,0 +1,20 @@
+title: "Dr. Menka | Resume"
+description: "Assistant Professor & Head, Department of Botany, M.J.K. College, Bettiah"
+author: "Dr. Menka"
+
+# Theme (you can change to another GitHub-supported theme like: minima, cayman, slate, tactile)
+theme: jekyll-theme-cayman
+
+# GitHub Pages settings
+markdown: kramdown
+highlighter: rouge
+
+# Social links (add more if needed)
+email: mnkbhu@gmail.com
+scholar: "#"   # replace # with your Google Scholar profile link if you want
+phone: "+91-9450666713"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
