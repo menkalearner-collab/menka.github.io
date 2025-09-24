@@ -41,3 +41,7 @@ title: "Publications | Dr. Menka"
 8. **Hema Singh, Menka et al. (2011)**  
    *Effect of nitrogen addition on the architecture and biomass allocation of two invasive plant species (Ageratum conyzoides L. and Parthenium hysterophorus L.).*  
    *Proceedings of the National Academy of Sciences, India Section B*, 81(III): 348-358.  
+
+---
+
+👉 [Back to Home](index.md) | [See Projects](project.md)
