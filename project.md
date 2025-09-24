@@ -14,7 +14,7 @@ title: "Projects | Dr. Menka"
 
 - **Air Quality Monitoring** (BHU, 2014–2015)  
   Organized and conducted monitoring of air quality at three different sites.  
-  - Skills applied: Data collection, SPSS, Microsoft Office.  
+  - Skills applied: Data collection, SPSS, Microsoft Office  
   - Outcomes: Improved understanding of pollution sources and mitigation strategies.
 
 ---
@@ -40,10 +40,4 @@ title: "Projects | Dr. Menka"
 
 ---
 
-## 🚀 Future Directions
-- Expansion of eco-friendly treatment technologies for large-scale wastewater management.  
-- Continued research in climate change impacts on water resources.  
-- Collaborative projects on **sustainable natural resource management**.  
-
----
 👉 [Back to Home](index.md) | [See Publications](publications.md)
