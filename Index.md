@@ -4,6 +4,7 @@
       <li><a href="{{ '/' | relative_url }}" style="color:white; text-decoration:none;">Home</a></li>
       <li><a href="{{ '/about' | relative_url }}" style="color:white; text-decoration:none;">About</a></li>
       <li><a href="{{ '/publications' | relative_url }}" style="color:white; text-decoration:none;">Publications</a></li>
+      <li><a href="{{ '/publications' | relative_url }}" style="color:white; text-decoration:none;">pubtexto_701_2891_20092024124</a></li>
       <li><a href="{{ '/contact' | relative_url }}" style="color:white; text-decoration:none;">Contact</a></li>
     </ul>
   </nav>
