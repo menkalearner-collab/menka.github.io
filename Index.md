@@ -1,8 +1,6 @@
 <head>
-  <meta name="google-site-verification" content="your_verification_code" />
-  <title>My GitHub Page</title>
-  ...
-</head>
+<meta name="google-site-verification" content="Sgpxtv-gcnZfd3AFF5pyTsYo7FxbS_31V1CWyEkclfc" />  
+   ...
 <header>
   <nav>
     <ul style="list-style:none; display:flex; gap:20px; padding:10px; background:#333;">
