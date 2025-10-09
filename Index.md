@@ -1,5 +1,9 @@
+<head>
+  <meta name="google-site-verification" content="your_verification_code" />
+  <title>My GitHub Page</title>
+  ...
+</head>
 <header>
- <meta name="google-site-verification" content="Sgpxtv-gcnZfd3AFF5pyTsYo7FxbS_31V1CWyEkclfc" />
   <nav>
     <ul style="list-style:none; display:flex; gap:20px; padding:10px; background:#333;">
       <li><a href="{{ '/' | relative_url }}" style="color:white; text-decoration:none;">Home</a></li>
